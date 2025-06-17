@@ -14,3 +14,13 @@ proj
 
 ## функционал
 в тг бот пишете слово на нганасанском и он выдает морфологический разбор
+
+## литература
+```
+Нганасанско-русский и наоборот словарь 
+https://www.klex.ru/1zy5
+```
+```
+Учебник нганасанского языка
+https://theswissbay.ch/pdf/Books/Linguistics/Mega%20linguistics%20pack/Uralic/Nganasan%3B%20%D0%9D%D0%B3%D0%B0%D0%BD%D0%B0%D1%81%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D1%8F%D0%B7%D1%8B%D0%BA%20%28Tere%C5%A1%C4%8Denko%29.pdf
+```

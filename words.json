@@ -1,0 +1,1215 @@
+{
+  "баса": {
+    "lemma": "баса",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "declension": 1
+    },
+    "translation": "река"
+  },
+  "басагай": {
+    "lemma": "баса",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "dl",
+      "declension": 1
+    },
+    "translation": "две реки"
+  },
+  "басане": {
+    "lemma": "баса",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "pl",
+      "declension": 1
+    },
+    "translation": "реки"
+  },
+  "басате": {
+    "lemma": "баса",
+    "pos": "noun",
+    "tags": {
+      "case": "dat",
+      "number": "sg",
+      "declension": 1
+    },
+    "translation": "реке"
+  },
+  "басадите": {
+    "lemma": "баса",
+    "pos": "noun",
+    "tags": {
+      "case": "dat",
+      "number": "pl",
+      "declension": 1
+    },
+    "translation": "рекам"
+  },
+  "коче": {
+    "lemma": "коче",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "declension": 2
+    },
+    "translation": "человек"
+  },
+  "кочемё": {
+    "lemma": "коче",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "possession": "1sg",
+      "declension": 2
+    },
+    "translation": "мой человек"
+  },
+  "кочерё": {
+    "lemma": "коче",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "possession": "2sg",
+      "declension": 2
+    },
+    "translation": "твой человек"
+  },
+  "нгы": {
+    "lemma": "нгы",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "declension": 3
+    },
+    "translation": "женщина"
+  },
+  "нгымё": {
+    "lemma": "нгы",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "possession": "1sg",
+      "declension": 3
+    },
+    "translation": "моя женщина"
+  },
+  "туо": {
+    "lemma": "туо",
+    "pos": "verb",
+    "tags": {
+      "tense": "inf"
+    },
+    "translation": "приходить"
+  },
+  "туом": {
+    "lemma": "туо",
+    "pos": "verb",
+    "tags": {
+      "tense": "past",
+      "person": "1",
+      "number": "sg"
+    },
+    "translation": "я пришел"
+  },
+  "туон": {
+    "lemma": "туо",
+    "pos": "verb",
+    "tags": {
+      "tense": "past",
+      "person": "2",
+      "number": "sg"
+    },
+    "translation": "ты пришел"
+  },
+  "туоми": {
+    "lemma": "туо",
+    "pos": "verb",
+    "tags": {
+      "tense": "past",
+      "person": "1",
+      "number": "dl"
+    },
+    "translation": "мы (двое) пришли"
+  },
+  "туори": {
+    "lemma": "туо",
+    "pos": "verb",
+    "tags": {
+      "tense": "past",
+      "person": "2",
+      "number": "dl"
+    },
+    "translation": "вы (двое) пришли"
+  },
+  "туогай": {
+    "lemma": "туо",
+    "pos": "verb",
+    "tags": {
+      "tense": "past",
+      "person": "3",
+      "number": "dl"
+    },
+    "translation": "они (двое) пришли"
+  },
+  "туому": {
+    "lemma": "туо",
+    "pos": "verb",
+    "tags": {
+      "tense": "past",
+      "person": "1",
+      "number": "pl"
+    },
+    "translation": "мы пришли"
+  },
+  "туору": {
+    "lemma": "туо",
+    "pos": "verb",
+    "tags": {
+      "tense": "past",
+      "person": "2",
+      "number": "pl"
+    },
+    "translation": "вы пришли"
+  },
+  "туйсузәм": {
+    "lemma": "туйсузэ",
+    "pos": "verb",
+    "tags": {
+      "tense": "fut",
+      "person": "1",
+      "number": "sg"
+    },
+    "translation": "я приду"
+  },
+  "туйсузән": {
+    "lemma": "туйсузэ",
+    "pos": "verb",
+    "tags": {
+      "tense": "fut",
+      "person": "2",
+      "number": "sg"
+    },
+    "translation": "ты придешь"
+  },
+  "туйсузэми": {
+    "lemma": "туйсузэ",
+    "pos": "verb",
+    "tags": {
+      "tense": "fut",
+      "person": "1",
+      "number": "dl"
+    },
+    "translation": "мы (двое) придем"
+  },
+  "туйсузэри": {
+    "lemma": "туйсузэ",
+    "pos": "verb",
+    "tags": {
+      "tense": "fut",
+      "person": "2",
+      "number": "dl"
+    },
+    "translation": "вы (двое) придете"
+  },
+  "туйсузэгай": {
+    "lemma": "туйсузэ",
+    "pos": "verb",
+    "tags": {
+      "tense": "fut",
+      "person": "3",
+      "number": "dl"
+    },
+    "translation": "они (двое) придут"
+  },
+  "туйсузэму": {
+    "lemma": "туйсузэ",
+    "pos": "verb",
+    "tags": {
+      "tense": "fut",
+      "person": "1",
+      "number": "pl"
+    },
+    "translation": "мы придем"
+  },
+  "туйсузэру": {
+    "lemma": "туйсузэ",
+    "pos": "verb",
+    "tags": {
+      "tense": "fut",
+      "person": "2",
+      "number": "pl"
+    },
+    "translation": "вы придете"
+  },
+  "туйсузэ": {
+    "lemma": "туйсузэ",
+    "pos": "verb",
+    "tags": {
+      "tense": "fut",
+      "person": "3",
+      "number": "pl"
+    },
+    "translation": "они придут"
+  },
+  "мәне": {
+    "lemma": "мәне",
+    "pos": "pron",
+    "tags": {
+      "case": "nom",
+      "person": "1",
+      "number": "sg"
+    },
+    "translation": "я"
+  },
+  "тәне": {
+    "lemma": "тәне",
+    "pos": "pron",
+    "tags": {
+      "case": "nom",
+      "person": "2",
+      "number": "sg"
+    },
+    "translation": "ты"
+  },
+  "сыты": {
+    "lemma": "сыты",
+    "pos": "pron",
+    "tags": {
+      "case": "nom",
+      "person": "3",
+      "number": "sg"
+    },
+    "translation": "он/она"
+  },
+  "ми": {
+    "lemma": "ми",
+    "pos": "pron",
+    "tags": {
+      "case": "nom",
+      "person": "1",
+      "number": "dl"
+    },
+    "translation": "мы (двое)"
+  },
+  "ти": {
+    "lemma": "ти",
+    "pos": "pron",
+    "tags": {
+      "case": "nom",
+      "person": "2",
+      "number": "dl"
+    },
+    "translation": "вы (двое)"
+  },
+  "сыти": {
+    "lemma": "сыти",
+    "pos": "pron",
+    "tags": {
+      "case": "nom",
+      "person": "3",
+      "number": "dl"
+    },
+    "translation": "они (двое)"
+  },
+  "мын": {
+    "lemma": "мын",
+    "pos": "pron",
+    "tags": {
+      "case": "nom",
+      "person": "1",
+      "number": "pl"
+    },
+    "translation": "мы"
+  },
+  "тын": {
+    "lemma": "тын",
+    "pos": "pron",
+    "tags": {
+      "case": "nom",
+      "person": "2",
+      "number": "pl"
+    },
+    "translation": "вы"
+  },
+  "сытын": {
+    "lemma": "сытын",
+    "pos": "pron",
+    "tags": {
+      "case": "nom",
+      "person": "3",
+      "number": "pl"
+    },
+    "translation": "они"
+  },
+  "нонәнте": {
+    "lemma": "нонән",
+    "pos": "pron",
+    "tags": {
+      "case": "nom",
+      "person": "2",
+      "number": "sg",
+      "type": "reflexive"
+    },
+    "translation": "ты сам"
+  },
+  "нонәнту": {
+    "lemma": "нонән",
+    "pos": "pron",
+    "tags": {
+      "case": "nom",
+      "person": "3",
+      "number": "sg",
+      "type": "reflexive"
+    },
+    "translation": "он/она сам/сама"
+  },
+  "эмэ": {
+    "lemma": "эмэ",
+    "pos": "pron",
+    "tags": {
+      "type": "demonstrative",
+      "subtype": "proximal"
+    },
+    "translation": "этот"
+  },
+  "тетти": {
+    "lemma": "тетти",
+    "pos": "pron",
+    "tags": {
+      "type": "demonstrative",
+      "subtype": "distal"
+    },
+    "translation": "тот"
+  },
+  "такээ": {
+    "lemma": "такээ",
+    "pos": "pron",
+    "tags": {
+      "type": "demonstrative",
+      "subtype": "remote"
+    },
+    "translation": "вон тот"
+  },
+  "сылы": {
+    "lemma": "сылы",
+    "pos": "pron",
+    "tags": {
+      "type": "interrogative",
+      "subtype": "who"
+    },
+    "translation": "кто?"
+  },
+  "маа": {
+    "lemma": "маа",
+    "pos": "pron",
+    "tags": {
+      "type": "interrogative",
+      "subtype": "what"
+    },
+    "translation": "что?"
+  },
+  "курэди": {
+    "lemma": "курэди",
+    "pos": "pron",
+    "tags": {
+      "type": "interrogative",
+      "subtype": "which"
+    },
+    "translation": "какой?"
+  },
+  "нуой": {
+    "lemma": "нуой",
+    "pos": "num",
+    "tags": {
+      "type": "cardinal"
+    },
+    "translation": "один"
+  },
+  "ситти": {
+    "lemma": "ситти",
+    "pos": "num",
+    "tags": {
+      "type": "cardinal"
+    },
+    "translation": "два"
+  },
+  "нагур": {
+    "lemma": "нагур",
+    "pos": "num",
+    "tags": {
+      "type": "cardinal"
+    },
+    "translation": "три"
+  },
+  "теты": {
+    "lemma": "теты",
+    "pos": "num",
+    "tags": {
+      "type": "cardinal"
+    },
+    "translation": "четыре"
+  },
+  "сомбэ": {
+    "lemma": "сомбэ",
+    "pos": "num",
+    "tags": {
+      "type": "cardinal"
+    },
+    "translation": "пять"
+  },
+  "мэтты": {
+    "lemma": "мэтты",
+    "pos": "num",
+    "tags": {
+      "type": "cardinal"
+    },
+    "translation": "шесть"
+  },
+  "сэйбэ": {
+    "lemma": "сэйбэ",
+    "pos": "num",
+    "tags": {
+      "type": "cardinal"
+    },
+    "translation": "семь"
+  },
+  "ситтизатор": {
+    "lemma": "ситтизатор",
+    "pos": "num",
+    "tags": {
+      "type": "cardinal"
+    },
+    "translation": "восемь"
+  },
+  "намиайтумэ": {
+    "lemma": "намиайтумэ",
+    "pos": "num",
+    "tags": {
+      "type": "cardinal"
+    },
+    "translation": "девять"
+  },
+  "би": {
+    "lemma": "би",
+    "pos": "num",
+    "tags": {
+      "type": "cardinal"
+    },
+    "translation": "десять"
+  },
+  "бинуой": {
+    "lemma": "бинуой",
+    "pos": "num",
+    "tags": {
+      "type": "cardinal"
+    },
+    "translation": "одиннадцать"
+  },
+  "биситти": {
+    "lemma": "биситти",
+    "pos": "num",
+    "tags": {
+      "type": "cardinal"
+    },
+    "translation": "двенадцать"
+  },
+  "бисомбэ": {
+    "lemma": "бисомбэ",
+    "pos": "num",
+    "tags": {
+      "type": "cardinal"
+    },
+    "translation": "пятнадцать"
+  },
+  "ситтиби": {
+    "lemma": "ситтиби",
+    "pos": "num",
+    "tags": {
+      "type": "cardinal"
+    },
+    "translation": "двадцать"
+  },
+  "сонхоби": {
+    "lemma": "сонхоби",
+    "pos": "num",
+    "tags": {
+      "type": "cardinal"
+    },
+    "translation": "пятьдесят"
+  },
+  "дир": {
+    "lemma": "дир",
+    "pos": "num",
+    "tags": {
+      "type": "cardinal"
+    },
+    "translation": "сто"
+  },
+  "бидир": {
+    "lemma": "бидир",
+    "pos": "num",
+    "tags": {
+      "type": "cardinal"
+    },
+    "translation": "тысяча"
+  },
+  "неробте": {
+    "lemma": "неробте",
+    "pos": "num",
+    "tags": {
+      "type": "ordinal"
+    },
+    "translation": "первый"
+  },
+  "сизимти": {
+    "lemma": "сизимти",
+    "pos": "num",
+    "tags": {
+      "type": "ordinal"
+    },
+    "translation": "второй"
+  },
+  "нагемту": {
+    "lemma": "нагемту",
+    "pos": "num",
+    "tags": {
+      "type": "ordinal"
+    },
+    "translation": "третий"
+  },
+  "тетгемты": {
+    "lemma": "тетгемты",
+    "pos": "num",
+    "tags": {
+      "type": "ordinal"
+    },
+    "translation": "четвертый"
+  },
+  "сомбэмти": {
+    "lemma": "сомбэмти",
+    "pos": "num",
+    "tags": {
+      "type": "ordinal"
+    },
+    "translation": "пятый"
+  },
+  "метгемты": {
+    "lemma": "метгемты",
+    "pos": "num",
+    "tags": {
+      "type": "ordinal"
+    },
+    "translation": "шестой"
+  },
+  "сэйбэмти": {
+    "lemma": "сэйбэмти",
+    "pos": "num",
+    "tags": {
+      "type": "ordinal"
+    },
+    "translation": "седьмой"
+  },
+  "ситтизатомты": {
+    "lemma": "ситтизатомты",
+    "pos": "num",
+    "tags": {
+      "type": "ordinal"
+    },
+    "translation": "восьмой"
+  },
+  "намиайтумэмти": {
+    "lemma": "намиайтумэмти",
+    "pos": "num",
+    "tags": {
+      "type": "ordinal"
+    },
+    "translation": "девятый"
+  },
+  "бизимти": {
+    "lemma": "бизимти",
+    "pos": "num",
+    "tags": {
+      "type": "ordinal"
+    },
+    "translation": "десятый"
+  },
+  "ситтимены": {
+    "lemma": "ситти",
+    "pos": "num",
+    "tags": {
+      "type": "distributive"
+    },
+    "translation": "по два"
+  },
+  "ситти ися": {
+    "lemma": "ситти",
+    "pos": "num",
+    "tags": {
+      "type": "collective"
+    },
+    "translation": "вдвоем"
+  },
+  "ситтимены камеутую": {
+    "lemma": "ситти",
+    "pos": "num",
+    "tags": {
+      "type": "multiplicative"
+    },
+    "translation": "двойной"
+  },
+  "нагемту хельге": {
+    "lemma": "нагемту",
+    "pos": "num",
+    "tags": {
+      "type": "fractional"
+    },
+    "translation": "треть"
+  },
+  "тунгу": {
+    "lemma": "тунгу",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "declension": 1
+    },
+    "translation": "огонь"
+  },
+  "тунгугай": {
+    "lemma": "тунгу",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "dl",
+      "declension": 1
+    },
+    "translation": "два огня"
+  },
+  "тунгуне": {
+    "lemma": "тунгу",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "pl",
+      "declension": 1
+    },
+    "translation": "огни"
+  },
+  "хосе": {
+    "lemma": "хосе",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "declension": 2
+    },
+    "translation": "солнце"
+  },
+  "хосемё": {
+    "lemma": "хосе",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "possession": "1sg",
+      "declension": 2
+    },
+    "translation": "мое солнце"
+  },
+  "хосерё": {
+    "lemma": "хосе",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "possession": "2sg",
+      "declension": 2
+    },
+    "translation": "твое солнце"
+  },
+  "иле": {
+    "lemma": "иле",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "declension": 2
+    },
+    "translation": "ветер"
+  },
+  "илемё": {
+    "lemma": "иле",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "possession": "1sg",
+      "declension": 2
+    },
+    "translation": "мой ветер"
+  },
+  "илерите": {
+    "lemma": "иле",
+    "pos": "noun",
+    "tags": {
+      "case": "dat",
+      "number": "sg",
+      "possession": "2dl",
+      "declension": 2
+    },
+    "translation": "вашему (двоих) ветру"
+  },
+  "кэсы": {
+    "lemma": "кэсы",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "declension": 3
+    },
+    "translation": "рыба (вид)"
+  },
+  "кэсымё": {
+    "lemma": "кэсы",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "possession": "1sg",
+      "declension": 3
+    },
+    "translation": "моя рыба"
+  },
+  "кэсыдите": {
+    "lemma": "кэсы",
+    "pos": "noun",
+    "tags": {
+      "case": "dat",
+      "number": "pl",
+      "declension": 3
+    },
+    "translation": "рыбам"
+  },
+  "тунэ": {
+    "lemma": "тунэ",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "declension": 2
+    },
+    "translation": "вода"
+  },
+  "тунэмё": {
+    "lemma": "тунэ",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "possession": "1sg",
+      "declension": 2
+    },
+    "translation": "моя вода"
+  },
+  "тунэдите": {
+    "lemma": "тунэ",
+    "pos": "noun",
+    "tags": {
+      "case": "dat",
+      "number": "pl",
+      "declension": 2
+    },
+    "translation": "водам"
+  },
+  "ху": {
+    "lemma": "ху",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "declension": 3
+    },
+    "translation": "дерево"
+  },
+  "хумё": {
+    "lemma": "ху",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "possession": "1sg",
+      "declension": 3
+    },
+    "translation": "мое дерево"
+  },
+  "худите": {
+    "lemma": "ху",
+    "pos": "noun",
+    "tags": {
+      "case": "dat",
+      "number": "pl",
+      "declension": 3
+    },
+    "translation": "деревьям"
+  },
+  "нгано": {
+    "lemma": "нгано",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "declension": 2
+    },
+    "translation": "нганасанец"
+  },
+  "нганомё": {
+    "lemma": "нгано",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "possession": "1sg",
+      "declension": 2
+    },
+    "translation": "мой нганасанец"
+  },
+  "нганоне": {
+    "lemma": "нгано",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "pl",
+      "declension": 2
+    },
+    "translation": "нганасаны"
+  },
+  "ня": {
+    "lemma": "ня",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "declension": 1
+    },
+    "translation": "земля"
+  },
+  "нямё": {
+    "lemma": "ня",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "possession": "1sg",
+      "declension": 1
+    },
+    "translation": "моя земля"
+  },
+  "нядите": {
+    "lemma": "ня",
+    "pos": "noun",
+    "tags": {
+      "case": "dat",
+      "number": "pl",
+      "declension": 1
+    },
+    "translation": "землям"
+  },
+  "кори": {
+    "lemma": "кори",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "declension": 2
+    },
+    "translation": "олень (самец)"
+  },
+  "коримё": {
+    "lemma": "кори",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "possession": "1sg",
+      "declension": 2
+    },
+    "translation": "мой олень"
+  },
+  "коридите": {
+    "lemma": "кори",
+    "pos": "noun",
+    "tags": {
+      "case": "dat",
+      "number": "pl",
+      "declension": 2
+    },
+    "translation": "оленям"
+  },
+  "куту": {
+    "lemma": "куту",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "declension": 1
+    },
+    "translation": "рыба (другой вид)"
+  },
+  "кутумё": {
+    "lemma": "куту",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "possession": "1sg",
+      "declension": 1
+    },
+    "translation": "моя рыба"
+  },
+  "кутудите": {
+    "lemma": "куту",
+    "pos": "noun",
+    "tags": {
+      "case": "dat",
+      "number": "pl",
+      "declension": 1
+    },
+    "translation": "рыбам"
+  },
+  "нгуо": {
+    "lemma": "нгуо",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "declension": 2
+    },
+    "translation": "лодка"
+  },
+  "нгуомё": {
+    "lemma": "нгуо",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "possession": "1sg",
+      "declension": 2
+    },
+    "translation": "моя лодка"
+  },
+  "нгуодите": {
+    "lemma": "нгуо",
+    "pos": "noun",
+    "tags": {
+      "case": "dat",
+      "number": "pl",
+      "declension": 2
+    },
+    "translation": "лодкам"
+  },
+  "танга": {
+    "lemma": "танга",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "declension": 1
+    },
+    "translation": "берег"
+  },
+  "тангамё": {
+    "lemma": "танга",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "possession": "1sg",
+      "declension": 1
+    },
+    "translation": "мой берег"
+  },
+  "тангадите": {
+    "lemma": "танга",
+    "pos": "noun",
+    "tags": {
+      "case": "dat",
+      "number": "pl",
+      "declension": 1
+    },
+    "translation": "берегам"
+  },
+  "нэ": {
+    "lemma": "нэ",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "declension": 2
+    },
+    "translation": "женщина (замужняя)"
+  },
+  "нэмё": {
+    "lemma": "нэ",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "possession": "1sg",
+      "declension": 2
+    },
+    "translation": "моя женщина"
+  },
+  "нэдите": {
+    "lemma": "нэ",
+    "pos": "noun",
+    "tags": {
+      "case": "dat",
+      "number": "pl",
+      "declension": 2
+    },
+    "translation": "женщинам"
+  },
+  "хэде": {
+    "lemma": "хэде",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "declension": 2
+    },
+    "translation": "ребенок"
+  },
+  "хэдемё": {
+    "lemma": "хэде",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "possession": "1sg",
+      "declension": 2
+    },
+    "translation": "мой ребенок"
+  },
+  "хэдедите": {
+    "lemma": "хэде",
+    "pos": "noun",
+    "tags": {
+      "case": "dat",
+      "number": "pl",
+      "declension": 2
+    },
+    "translation": "детям"
+  },
+  "тун": {
+    "lemma": "тун",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "declension": 3
+    },
+    "translation": "зима"
+  },
+  "тунмё": {
+    "lemma": "тун",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "possession": "1sg",
+      "declension": 3
+    },
+    "translation": "моя зима"
+  },
+  "тундите": {
+    "lemma": "тун",
+    "pos": "noun",
+    "tags": {
+      "case": "dat",
+      "number": "pl",
+      "declension": 3
+    },
+    "translation": "зимам"
+  },
+  "кэ": {
+    "lemma": "кэ",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "declension": 2
+    },
+    "translation": "лето"
+  },
+  "кэмё": {
+    "lemma": "кэ",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "possession": "1sg",
+      "declension": 2
+    },
+    "translation": "мое лето"
+  },
+  "кэдите": {
+    "lemma": "кэ",
+    "pos": "noun",
+    "tags": {
+      "case": "dat",
+      "number": "pl",
+      "declension": 2
+    },
+    "translation": "летам"
+  },
+  "нга": {
+    "lemma": "нга",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "declension": 1
+    },
+    "translation": "рот"
+  },
+  "нгамё": {
+    "lemma": "нга",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "possession": "1sg",
+      "declension": 1
+    },
+    "translation": "мой рот"
+  },
+  "нгадите": {
+    "lemma": "нга",
+    "pos": "noun",
+    "tags": {
+      "case": "dat",
+      "number": "pl",
+      "declension": 1
+    },
+    "translation": "ртам"
+  },
+  "хэм": {
+    "lemma": "хэм",
+    "pos": "noun",
+    "tags": {
+      "case": "nom",
+      "number": "sg",
+      "declension": 3
+    },
+    "translation": "глаз"
+  }
+}

@@ -115,7 +115,7 @@ class NganasanBot:
 
 
 if __name__ == '__main__':
-    BOT_TOKEN = "8090913723:AAGwsr0ftwvwsKLTR_xoouyF1804b30-WLw"
+    BOT_TOKEN = "-"
 
     bot = NganasanBot(BOT_TOKEN)
     bot.run()
